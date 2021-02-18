@@ -1,6 +1,5 @@
 var React = require('react')
 
 module.exports = function(childrenObject) {
-    return React.Fragment({children: Object.values(childrenObject)})
+    return React.createElement(React.Fragment, null, ...Object.values(childrenObject))
 }
-
