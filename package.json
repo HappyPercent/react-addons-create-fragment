@@ -10,7 +10,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {},
   "peerDependencies": {
-    "react": "^15.0.0"
+    "react": "^16.13.1"
   }
 
 ,"_resolved": "http://registry.npmjs.org/react-addons-create-fragment/-/react-addons-create-fragment-15.0.0.tgz"
